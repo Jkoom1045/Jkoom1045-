@@ -1,26 +1,23 @@
 # Hello, I'm Justin Koomson
 <a href="https://www.linkedin.com/in/justin-koomson-151268265"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a junior information security analyst with a focus on NIST and the Risk Management Framework.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+My experience in cybersecurity has sparked a strong passion for information security, and I’m now excited to shift my focus to this field. I’m particularly eager to join an organization that requires support with safeguarding its data.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Information and Event Management (SIEM)        | <a href="https://google.com">Detection Lab</a>|
+| IPS/IDS Implementation | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Scanning         | SOC Automation Lab|
+| Risk Management Framework      | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
